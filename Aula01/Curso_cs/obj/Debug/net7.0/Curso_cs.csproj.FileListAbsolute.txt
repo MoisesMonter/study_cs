@@ -1,0 +1,15 @@
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\bin\Debug\net7.0\Curso_cs.exe
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\bin\Debug\net7.0\Curso_cs.deps.json
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\bin\Debug\net7.0\Curso_cs.runtimeconfig.json
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\bin\Debug\net7.0\Curso_cs.dll
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\bin\Debug\net7.0\Curso_cs.pdb
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.csproj.AssemblyReference.cache
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.AssemblyInfoInputs.cache
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.AssemblyInfo.cs
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.csproj.CoreCompileInputs.cache
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.dll
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\refint\Curso_cs.dll
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.pdb
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\Curso_cs.genruntimeconfig.cache
+D:\CFB Cursos\C#\Aulas\Aula01\Curso_cs\obj\Debug\net7.0\ref\Curso_cs.dll
